@@ -1,0 +1,144 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+
+body{
+    font-family: 'Nanum Pen Script', cursive;
+    background-image: url(images/BookStoreJoin_.jpg);
+    background-size: 1100px 690px; 
+    background-repeat: no-repeat;
+    background-position: 150px 10px;
+    position: fixed;
+    
+}
+
+.jointab{
+
+    top: 132px;
+    left: 485px;
+    font-size: 35px;
+    position: fixed;
+    
+    
+}
+
+.joinWarning{
+    font-size: 20px;
+    margin-left: 190px;
+    margin-top: 180px;
+    position: fixed;
+    
+}
+
+
+#inputid{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
+
+#inputpss{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left: 15px;    
+}
+#inputname{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left: 15px;    
+}
+#inputM{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px;   
+    margin-top: 10px;
+    margin-right: 10px;    
+}
+
+#inputF{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;    
+}
+#inputem
+{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;    
+}
+#inputph
+{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-right: 10px;    
+}
+#inputaddss{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px; 
+    margin-top: 10px;
+    margin-right: 10px;    
+}
+
+#inputbt{    
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 15px;  
+}
+
+#joinbtn{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;   
+    margin-left: 850px;
+    margin-top: 10px;
+    position: fixed;
+         -moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25));
+	background:-moz-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:-webkit-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:-o-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:-ms-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25',GradientType=0);
+	background-color:#ffc477;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
